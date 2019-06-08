@@ -1,12 +1,11 @@
-##### COOK COUNTY RECORDER OF DEEDS
+##### COOK COUNTY RECORDER OF DEEDS:
 Land records. They are in "Property Index" database also called the "Recorder's database"
 https://ccrecorder.org/
 
-##### REAL ESTATE TRANFER DATA
+##### REAL ESTATE TRANFER (PAID) DATA:
 https://cookrecorder.com/cook-county-real-estate-transfer-data/
 
 ##### BUILDING PERMITS:
-
 https://data.cityofchicago.org/Buildings/Building-Permits-Dashboard/2s3k-mec8
   https://data.cityofchicago.org/resource/ydr8-5enu.json
   https://data.cityofchicago.org/resource/ydr8-5enu.geojson
@@ -18,11 +17,11 @@ http://plenar.io/explore/event/building_permits?obs_date__ge=2019-01-23&obs_date
 
 
 ##### ZONING:
-
+http://gisapps.cityofchicago.org/ZoningMapWeb/
 https://chicago.councilmatic.org/search/?selected_facets=topics_exact%3AZoning+Reclassification&page=1
   https://secondcityzoning.org/
-
-http://webapi.legistar.com/ gives access to the City Council Legislative information Center https://chicago.legistar.com/
+City Council Legislative information Center https://chicago.legistar.com/ 
+http://webapi.legistar.com/ gives access to it
 
 ##### SECRETARY OF STATE
 legal entities:
@@ -68,5 +67,5 @@ https://www.chicagocityscape.com/sources.php
 https://secondcityzoning.org/
 https://github.com/datamade/second-city-zoning
 
-POLYGONS FOR DATA REQUESTS
+##### POLYGONS FOR DATA REQUESTS
 http://arthur-e.github.io/Wicket/sandbox-gmaps3.html
